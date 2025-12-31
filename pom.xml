@@ -234,7 +234,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>war.jnt.Main</mainClass>
+                                    <mainClass>war.Entrypoint</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
