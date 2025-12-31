@@ -91,7 +91,7 @@
                 </configuration>
             </plugin>
 
-            <!-- 🔧 CHỈ SỬA PLUGIN NÀY -->
+            <!--CHỈ SỬA PLUGIN NÀY -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>
